@@ -1,4 +1,4 @@
-# WaitBot-To replace waiters at restaurants
+# WaitBot-Chatbot for Restaurants
 
 Followed rule based approach of questions
 - Made buttons for different questions
