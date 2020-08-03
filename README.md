@@ -11,3 +11,5 @@ Menu/button-based chatbots are glorified decision tree hierarchies presented to 
 While these chatbots are sufficient for answering that handful of nagging FAQs that make up 80% of support queries; they fall well short in more advanced scenarios in which there are too many variables or too much knowledge at play to predict how users should get to specific answers with confidence. 
 
 This approach was chosen as there wasn’t a dataset to start with.
+
+**Developed by Ruchi Bhatia and Kunj Mehta**
